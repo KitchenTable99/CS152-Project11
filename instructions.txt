@@ -1,0 +1,10 @@
+I enjoyed this project about a billion times more than all of the others combined. I log all of my time working so that I can have an idea as to how long my work takes; this project took just over 24 hours to put together, but I really didn't notice it at all. In any case, this project should be relatively self explanatory. But there is a touch of set-up.
+
+1) Once you run bigBoyProject11.py, set your volume so that the song isn't blowing out your eardrums and it is audible. All the other audio is calibrated from that value.
+
+2) Make sure that your key repeat and delay until repeat features are set to the fastest options possible. For me that is under System Preferences/Keyboard/Keyboard (I use a Mac running OS X 10.15.4)
+
+3) I have a two easter eggs in this project. I think it's more fun to find them without me telling you where and what they are, but if you haven't found them after running the file and before you dive into the code, open the other file to see the location of them.
+
+
+Also, disclaimer: I don't have any of the rights to any of the songs used.
