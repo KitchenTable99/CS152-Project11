@@ -5,15 +5,15 @@
 #
 
 # Importing needed libraries
-import random
 import os
-import pygame
 import time
-import graphicsPlus as gr
-import physics_objects as pho
-import collision as coll
+import random
+import pygame
 import itertools
+import collision as coll
+import graphicsPlus as gr
 import concurrent.futures
+import physics_objects as pho
 from breakout import playAtari
 
 class ObjectivesText():
